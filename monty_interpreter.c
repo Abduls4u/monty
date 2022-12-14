@@ -1,8 +1,5 @@
-#include "monty.h"
-#include <stdio.h>
 #define _GNU_SOURCE
-#include <stdlib.h>
-
+#include "monty.h"
 
 /**
 * main - function for monty code interpreter
